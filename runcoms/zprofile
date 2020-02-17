@@ -76,5 +76,5 @@ TMPPREFIX="${TMPDIR%/}/zsh"
 #
 # Lightbend Activator path for Play Framework
 #
-export PATH=/home/clear/activator-1.3.12-minimal/bin:$PATH
+#export PATH=/home/clear/activator-1.3.12-minimal/bin:$PATH
 
